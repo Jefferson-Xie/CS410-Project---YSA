@@ -1,4 +1,4 @@
-# CS410-Project---YSA
+# CS410-Project---YSA Documentation
 
 Author: Jefferson Xie, jjxie3
 Video Presentation: https://drive.google.com/file/d/17PHx3kL1fPkjQhyZnHcJ1xZVoc4KIOQ6/view?usp=sharing or https://youtu.be/FqCM7XG626o
