@@ -24,7 +24,7 @@ Because the strawpoll API is a bit slow, I also included a csv file which contai
 
 I then included an interactive cell which allows the user to select a champion of interest from a dropdown menu and displays their strawpoll vote results.
 
-[Insert Image here]
+[](https://github.com/Jefferson-Xie/CS410-Project---YSA/blob/main/images/SelectChamp.png)
 
 Next I created my YoutubeInfo class which holds all my relevant Youtube API calls. It is used to both search for videos on a [specific YouTube channel](https://www.youtube.com/@SkinSpotlights "specific YouTube channel") that covers all new skin releases.
 
