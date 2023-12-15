@@ -24,7 +24,7 @@ Because the strawpoll API is a bit slow, I also included a csv file which contai
 
 I then included an interactive cell which allows the user to select a champion of interest from a dropdown menu and displays their strawpoll vote results.
 
-[](https://github.com/Jefferson-Xie/CS410-Project---YSA/blob/main/images/SelectChamp.png)
+![](https://github.com/Jefferson-Xie/CS410-Project---YSA/blob/main/images/SelectChamp.png)
 
 Next I created my YoutubeInfo class which holds all my relevant Youtube API calls. It is used to both search for videos on a [specific YouTube channel](https://www.youtube.com/@SkinSpotlights "specific YouTube channel") that covers all new skin releases.
 
@@ -33,7 +33,9 @@ Next there are some cells to help verify our dataframes are good to go before gr
 Following next is the SentimentAnalyzer class which handles all the tasks related to the [VADER SA](https://www.nltk.org/_modules/nltk/sentiment/vader.html "VADER SA") such as determining the compound score for a comment and indentify if the comment is positive, negative, or neutral comments. The class also tracks the mean compound sentiment for all the comments of a skin before passing it back to be stored.
 
 We then create a new data frame to display the results.
-[insert here]
+
+![](https://github.com/Jefferson-Xie/CS410-Project---YSA/blob/main/images/SentimentAdded.png)
+
 ## Results and Evaluation
 While working on this project, I have come to learn how powerful NLTK's VADER sentiment analysis tool is. Originally, I wanted to test my comments data before and after preprocessing to verify the impact preprocessing can have on NLP tasks. This includes tasks such as converting all chars to lower chase, removing special characters and emojis, [lemmatization](https://www.datacamp.com/tutorial/stemming-lemmatization-python "lemmatization"), etc.
 
