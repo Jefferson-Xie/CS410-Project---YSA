@@ -1,7 +1,7 @@
 # CS410-Project---YSA
 
 Author: Jefferson Xie, jjxie3
-Video Presentation: https://drive.google.com/file/d/17PHx3kL1fPkjQhyZnHcJ1xZVoc4KIOQ6/view?usp=sharing
+Video Presentation: https://drive.google.com/file/d/17PHx3kL1fPkjQhyZnHcJ1xZVoc4KIOQ6/view?usp=sharing or https://youtu.be/FqCM7XG626o
 
 ## Overview
 Ever get curious on how other people feel about a YouTube video? While YouTube still has their famous like and dislike buttons, as viewers we can no longer see the exact number and ratio anymore. This led to the idea of performing sentiment analysis (SA) on the YouTube videos' comment section in order to determine the overall 'likability' of the video. Adding my own interest in this, I decided to perform SA for the skins of different champions from the online game, League of Legends.
